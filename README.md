@@ -2,4 +2,7 @@
 WhatsappBot
 
 #Para Startar o projeto
-node chatbot.js
+- npm install
+  
+#Iniciar 
+- node chatbot.js
