@@ -8,7 +8,7 @@
     "numReplicas": 1,
     "sleepApplication": false,
     "multiRegionConfig": {
-      "us-west1": {
+      "us-east4": {
         "numReplicas": 1
       }
     },
